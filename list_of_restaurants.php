@@ -20,7 +20,7 @@
 <th>03-22441234</th>
  </tr>
   <?php
- $serverName = "simplewebtp000000.database.windows.net";
+ $serverName = "simplewebtpxx.database.windows.net";
  $connectionOptions = array(
  "Database" => "simpleweb",
  "Uid" => "simpleweb",
